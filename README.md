@@ -1,4 +1,4 @@
-## Coronavirus Cases: Statistics and Charts - Worldometer
+## Coronavirus cases: statistics and charts
 
 ### Visit Website
 
