@@ -1,10 +1,10 @@
-Coronavirus Cases: Statistics and Charts - Worldometer
+## Coronavirus Cases: Statistics and Charts - Worldometer
 
-## Visit Website
+### Visit Website
 
 https://covid-19-actual-data.netlify.app/
 
-## laguages/technologies:
+### Laguages/technologies:
 
 React.js, material-UI, chart.js, axios
 
